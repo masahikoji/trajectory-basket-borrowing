@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived software release and the associated manuscript."
+type: software
+title: "A Trajectory-Informed Clustering Approach for Information Borrowing in Basket Trials: Software"
+version: 1.0.0
+date-released: 2026-10-01
+authors:
+  - family-names: Kojima
+    given-names: Masahiro
+    affiliation: "Chuo University"
+  - family-names: Hanada
+    given-names: Keisuke
+    affiliation: "Wakayama Medical University"
+  - family-names: Sato
+    given-names: Atsuya
+    affiliation: "Chuo University"
+abstract: "Python implementation of trajectory-informed basket clustering, conditional hierarchical objective-response-rate inference, manuscript simulation and sensitivity analyses, and transition-matrix precision diagnostics."
+keywords:
+  - basket trials
+  - information borrowing
+  - transition probabilities
+  - Markov models
+  - hierarchical Bayesian models
+  - simulation

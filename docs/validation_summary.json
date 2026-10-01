@@ -1,0 +1,49 @@
+{
+  "environment": {
+    "python": "3.13.5",
+    "platform": "Linux",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "openpyxl": "3.1.5"
+  },
+  "tests": {
+    "main": 34,
+    "followup": 19,
+    "prior": 28,
+    "csv_input": 8,
+    "total": 115,
+    "passed": 115,
+    "transition_precision": 26
+  },
+  "source_files_executable_ast_unchanged": 42,
+  "example": {
+    "completed": true,
+    "n_per_basket": 20,
+    "baskets": 5,
+    "quad_level": 2
+  },
+  "end_to_end_checks": {
+    "main": "S2 n20, two replicates, two processes, all default methods",
+    "followup": "short and long S2 n20, two replicates, two processes, all default methods",
+    "prior": "same two saved Main trials, rates 0.5/1/2, five default methods; smoke mode"
+  },
+  "primary_posterior_replay": {
+    "primary_replay_passed": true,
+    "baseline_comparisons": 5,
+    "unavailable": 0,
+    "max_abs_difference": 0,
+    "rejection_disagreements": 0,
+    "note": "Only numerical reproducibility of the primary prior, not clinical/statistical robustness."
+  },
+  "full_manuscript_simulations_run_for_packaging": false,
+  "transition_precision": {
+    "reference_trials": 27,
+    "main_settings": 9,
+    "full_trials_per_setting": 10000,
+    "full_total_trials": 90000,
+    "parallel_reports_identical": true,
+    "saved_input_matches_regeneration": true,
+    "mse_decomposition_checked": true
+  },
+  "transition_precision_full_diagnostic_run_for_validation": true
+}

@@ -1,0 +1,14 @@
+{
+  "status": "completed",
+  "mode": "regeneration",
+  "settings": 9,
+  "trials_per_setting": 10000,
+  "total_trials": 90000,
+  "workers_requested": 20,
+  "workers_observed": 20,
+  "elapsed_seconds": 31.917193386000122,
+  "smoke": false,
+  "machine": "x86_64",
+  "python": "3.13.5",
+  "numpy": "2.3.5"
+}

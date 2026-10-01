@@ -1,0 +1,34 @@
+{
+  "refinement.py": {
+    "source": "Publication packaging of the numerical sources; see docs/source_map.json for original and release hashes.",
+    "sha256": "ea41446fe63c3c2d5b11fd7cea11eff1b4141ce8fb2a7291cb3a730f95837e1c"
+  },
+  "cluster_selection.py": {
+    "source": "Publication packaging of the numerical sources; see docs/source_map.json for original and release hashes.",
+    "sha256": "285ca6200164bae68f227103b57dc3e211eec738c6b2999f09bcf2fb38b66cff"
+  },
+  "generation.py": {
+    "source": "Publication packaging of the numerical sources; see docs/source_map.json for original and release hashes.",
+    "sha256": "61712898992adbbf42e4da22c6978258109080ce1ef19fcc9c2eaa27ba9fdef9"
+  },
+  "reference/core.py": {
+    "source": "Publication packaging of the numerical sources; see docs/source_map.json for original and release hashes.",
+    "sha256": "642b6f37fd73a08fe54066d5c0bb91e3c6a8a4222343a6ffebc7b18a8bfb1642"
+  },
+  "reference/designs.py": {
+    "source": "Publication packaging of the numerical sources; see docs/source_map.json for original and release hashes.",
+    "sha256": "8b41285a6421d7c481f01134500397c4c3ce8b4f3fa2bcc5191be582332b3eff"
+  },
+  "reference/__init__.py": {
+    "source": "Publication packaging of the numerical sources; see docs/source_map.json for original and release hashes.",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "posterior.py": {
+    "source": "Publication packaging of the numerical sources; see docs/source_map.json for original and release hashes.",
+    "sha256": "6877754e7ace9d9f699da732c8384b14edc1f477a7905c506da7ce46e4ff6c6c"
+  },
+  "validate_numerics.py": {
+    "source": "Publication packaging of the numerical sources; see docs/source_map.json for original and release hashes.",
+    "sha256": "e9e12c9efbee9c41aace176ad81b75664080603f7740554d4d3993e48bbb21b3"
+  }
+}

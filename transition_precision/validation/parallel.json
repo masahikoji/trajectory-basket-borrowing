@@ -1,0 +1,9 @@
+{
+  "cell_errors.csv": true,
+  "row_errors.csv": true,
+  "support_strata.csv": true,
+  "mse_decomposition.csv": true,
+  "matrix_errors.csv": true,
+  "observation_counts.csv": true,
+  "true_transitions.csv": true
+}

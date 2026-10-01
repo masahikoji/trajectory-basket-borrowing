@@ -1,0 +1,18 @@
+{
+  "suite": "main simulation implementation 3.0.2",
+  "numpy": "2.3.5",
+  "seed": 610202610,
+  "replicates": [
+    0,
+    17,
+    9999
+  ],
+  "cases": 27,
+  "source_hashes": {
+    "simulate.py": "b960c17d538700d4d84a06a0b65b0aad8c23e7b092d145f25a47738c76f8e9d0",
+    "generation.py": "802802ad60dbdf1393c37e81ebd047e37003473ac20c3a55884cfc4a57fb40dc",
+    "designs.py": "cd3558054f19417558e14f1f2bd1b7cf98379610a3177495cb45ddb03a82e53d",
+    "reference/core.py": "ed95d40eac6dccad1bf4d5f36bc74b419b6c5a962f14dccea249b3fc1ce75058",
+    "reference/designs.py": "8b41285a6421d7c481f01134500397c4c3ce8b4f3fa2bcc5191be582332b3eff"
+  }
+}
